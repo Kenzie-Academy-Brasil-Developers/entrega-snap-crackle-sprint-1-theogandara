@@ -15,7 +15,7 @@ function  snapCrackle (maxValue){
         else if ((i % 5) === 0){
             resultadoString +=  "Crackle, "
         }else {
-            resultadoString += i + ","
+            resultadoString += i + ", "
         }
     }
 
