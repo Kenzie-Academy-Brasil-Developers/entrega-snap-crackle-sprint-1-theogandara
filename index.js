@@ -1,4 +1,3 @@
-
 function  snapCrackle (maxValue){
     
     let resultadoString = ""
@@ -23,11 +22,11 @@ function  snapCrackle (maxValue){
 }
 
 
-// - Escreva uma função chamada __snapCrackle__ que leva um parâmetro: __maxValue__.
-// - Esta função deve fazer um loop de 1 até __maxValue__ (inclusive) e montar uma __string__ com as seguintes condições para cada número:
-//     1. Se o número for ímpar, no lugar dele, concatenar __"Snap"__ no final da string.
-//     2. Se o número for múltiplo de 5, no lugar dele, concatenar __"Crackle"__ no final da string.
-//     3. Se o número for tanto ímpar quanto múltiplo de 5, no lugar dele, concatenar __"SnapCrackle"__ no final da string.
+// - Escreva uma função chamada _snapCrackle_ que leva um parâmetro: _maxValue_.
+// - Esta função deve fazer um loop de 1 até _maxValue_ (inclusive) e montar uma _string_ com as seguintes condições para cada número:
+//     1. Se o número for ímpar, no lugar dele, concatenar _"Snap"_ no final da string.
+//     2. Se o número for múltiplo de 5, no lugar dele, concatenar _"Crackle"_ no final da string.
+//     3. Se o número for tanto ímpar quanto múltiplo de 5, no lugar dele, concatenar _"SnapCrackle"_ no final da string.
 //     4. Se número não for nem ímpar nem múltiplo de 5, concatenar o próprio número no final da string.
-//     5. Seus itens devem ser separados sempre por __vírgula e espaço__ (veja o exemplo).
-//     6. Esta função deve __retornar__ a __string__ obtida.
+//     5. Seus itens devem ser separados sempre por _vírgula e espaço_ (veja o exemplo).
+//     6. Esta função deve _retornar_ a _string_ obtida.
